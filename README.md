@@ -1,4 +1,7 @@
-# No-IP Renewal
+_Copy of [kirbah/noip-renew](https://github.com/kirbah/noip-renew)._
+
+
+## No-IP Renewal
 
 [noip.com](https://www.noip.com/) free hosts expire every month (every 30 days to be exact). This script checks the website to renew the hosts, using Python/Selenium with Chrome headless mode.
 
